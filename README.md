@@ -1,8 +1,6 @@
-Great! Since you’ve pushed your backend FastAPI project to GitHub, writing a clean and helpful `README.md` will be important. Below is a structured version of the README content for your **FastAPI + PostgreSQL Recommendation System Backend**.
-
 ---
 
-## ✅ Sample `README.md` for Your Project
+##  `README.md` for Your Project
 
 ````markdown
 # 🎯 Recommendation System Backend (FastAPI + PostgreSQL)
