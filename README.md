@@ -122,28 +122,6 @@ backend/
 
 MIT License — Free to use and modify.
 
-🗓️ Week 1: Setup
-✅ Installed and ran FastAPI
-
-✅ Created project structure (main.py, routes, models, schemas, etc.)
-
-✅ Connected PostgreSQL using SQLAlchemy
-
-✅ Created users, items, interactions tables in PostgreSQL
-
-🗓️ Week 2: Logging and Upload
-✅ Built the CSV upload API /interactions/upload_csv/
-
-You tested it with a CSV having 4998 rows — and it worked!
-
-✅ Created and tested real-time logging endpoint /interactions/log/
-
-You sent user click data and saw it inserted into the DB.
-
-✅ Table columns like interaction_type, timestamp were created and being used.
-
-✅ Handled some issues like missing columns, table not found — and you fixed them all with migrations or recreation.
-
 ```
 
 ---
